@@ -1,0 +1,15 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Carlos Eduardo Ribeiro', '10492837401', 3200.00, '2001-03-15', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Juliana Martins Costa', '28374910293', 7800.50, '1993-08-10', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Roberto Albuquerque Rocha', '39485720194', 14500.00, '1982-11-23', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Camila Fernandes de Souza', '40291847582', 4600.00, '1997-05-19', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Fernando Henrique Guimarães', '58392018475', 9200.75, '1988-12-04', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Patricia Helena Nogueira', '67182930491', 11300.00, '1985-04-30', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Lucas Gabriel Ferreira', '71928340192', 2500.00, '2003-09-12', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Beatriz Castro Mendes', '83019284756', 6150.00, '1996-01-27', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Marcio Antunes Silveira', '90281736450', 18900.00, '1978-06-18', 4);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Larissa Vasconcelos Lima', '94820173849', 5400.25, '1999-10-08', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Rodrigo Tadeu Pires', '31829401823', 8900.00, '1990-02-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Vanessa Cristina Dias', '45910283741', 4100.30, '1998-11-03', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Guilherme Siqueira Santos', '56029384712', 12750.00, '1986-07-29', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Renata Figueiredo Braga', '68291038455', 6800.00, '1995-04-12', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Thiago Moreira Barbosa', '79102847390', 3750.50, '2000-12-20', 0);
